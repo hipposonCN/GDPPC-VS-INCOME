@@ -1,0 +1,12 @@
+name: GDPPC_VS_INCOME
+title: GDPPC_VS_INCOME
+username:
+account: hipposon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 542646
+bundleId: 1671792
+url: https://hipposon.shinyapps.io/GDPPC_VS_INCOME/
+when: 1540900346.29856
+asMultiple: FALSE
+asStatic: FALSE
